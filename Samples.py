@@ -22,10 +22,7 @@ for num in fib_sequence:
 
 
 
-
 import psycopg2
-from psycopg2 import *
-
 
 host = 'localhost'
 user = 'postgres'
